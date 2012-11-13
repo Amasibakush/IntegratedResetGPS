@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">securephone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="enable_device_admin">Enable Device Admin</string>
+    <string name="lspr_unlock_monitor_service">Unlock Monitor</string>
+    <string name="lock_device">Lock Device</string>
+    <string name="reset_device">Reset Device</string>
+    <string name="device_admin_enabled">Device Admin Enabled</string>
+    <string name="device_admin_disabled">Device Admin Disabled</string>
+    <string name="LocationnotReady">Location Not Ready</string>
+    <string name="findme">Find Me</string>
+    <string name="stop">Stop Locating</string>
+    <string name="Showlocationbtntext">Show Location</string>
+
+
+
+</resources>
